@@ -1,10 +1,10 @@
 <p>
-  <img src="assets/header.svg" alt="Chai — native desktop tools, open source" width="100%">
+  <img src="assets/header.svg" alt="Chai — desktop tools and business software" width="100%">
 </p>
 
-I build open-source desktop tools for saving media, maintaining a Mac, and working with archives.
+I build open-source desktop tools and private business software, from the first working version through changing requirements and major rebuilds.
 
-My projects bring native interfaces to practical workflows, with local processing and clear controls over what changes on disk.
+My public projects focus on media, Mac maintenance, and archives, with native interfaces, local processing, and clear controls over what changes on disk.
 
 ## Selected projects
 
@@ -13,6 +13,12 @@ My projects bring native interfaces to practical workflows, with local processin
 | **[Eucrante](https://github.com/chai-in/Eucrante)**<br>macOS · Swift | Save media locally, prepare Apple-native audio and video, and import into Music.<br>**In development** · [Build from source](https://github.com/chai-in/Eucrante#build) · [Website](https://chai-in.github.io/Eucrante/) |
 | **[7-Zip Hatch](https://github.com/chai-in/7zip-hatch)**<br>Windows / macOS / Linux<br>C++ · Rust | Browse, create, and extract standard archives. An independent 7-Zip and HatchZip fork with optional space-saving extraction.<br>**Desktop preview** · [Downloads](https://github.com/chai-in/7zip-hatch#download) · [Extraction limits](https://github.com/chai-in/7zip-hatch#before-using-space-saving-extraction) |
 | **[Mac Tidy](https://github.com/chai-in/Mac-Tidy)**<br>Apple silicon macOS<br>Swift | Inspect storage, preview cleanup, uninstall apps, and monitor system health. A native interface powered by the Mole engine.<br>**In development** · [Build from source](https://github.com/chai-in/Mac-Tidy#build) · [Safety](https://github.com/chai-in/Mac-Tidy#safety) |
+
+## Private work at Tibcon
+
+I built Tibcon's CRM, shared authentication, and internal tools from scratch, taking the work through multiple scope changes and complete rebuilds of major components. My work spans product workflows, interfaces, backend services, data migrations, and deployment.
+
+CRM and shared authentication are current private projects. Earlier Sentry and Portfolio projects are now retired. [Read how this work evolved](projects/tibcon.md).
 
 ## Working with the projects
 
