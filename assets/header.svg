@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Chai — native desktop tools, open source</title>
+  <desc id="desc">A warm copper accent and three connected window illustrations representing media, system tools, and archives on a dark background.</desc>
+  <rect width="1200" height="240" rx="16" fill="#111820"/>
+  <path d="M0 222H1200" stroke="#29333E"/>
+  <rect x="40" y="43" width="4" height="143" rx="2" fill="#D88A62"/>
+  <text x="64" y="64" fill="#D88A62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">DESKTOP TOOLS / OPEN SOURCE</text>
+  <text x="60" y="139" fill="#F4EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Chai</text>
+  <text x="64" y="180" fill="#ACB7C4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21">Native interfaces. Practical software.</text>
+  <path d="M734 113H792M940 113H998" stroke="#475563" stroke-width="2" stroke-dasharray="3 6"/>
+  <g stroke="#475563" stroke-width="2">
+    <rect x="586" y="49" width="148" height="127" rx="12" fill="#19222D"/>
+    <path d="M587 78H733"/>
+    <rect x="792" y="49" width="148" height="127" rx="12" fill="#19222D"/>
+    <path d="M793 78H939"/>
+    <rect x="998" y="49" width="148" height="127" rx="12" fill="#19222D"/>
+    <path d="M999 78H1145"/>
+  </g>
+  <g fill="#758291">
+    <circle cx="602" cy="64" r="3"/><circle cx="613" cy="64" r="3"/><circle cx="624" cy="64" r="3"/>
+    <circle cx="808" cy="64" r="3"/><circle cx="819" cy="64" r="3"/><circle cx="830" cy="64" r="3"/>
+    <circle cx="1014" cy="64" r="3"/><circle cx="1025" cy="64" r="3"/><circle cx="1036" cy="64" r="3"/>
+  </g>
+  <g stroke="#D88A62" stroke-width="5" stroke-linecap="round">
+    <path d="M621 120V136M634 107V149M647 116V140M660 98V158M673 109V147M686 115V141M699 122V134"/>
+  </g>
+  <g stroke="#A8C8C2" stroke-width="3" stroke-linecap="round">
+    <path d="M820 105H911M820 128H911M820 151H911"/>
+    <circle cx="846" cy="105" r="6" fill="#19222D"/><circle cx="885" cy="128" r="6" fill="#19222D"/><circle cx="858" cy="151" r="6" fill="#19222D"/>
+  </g>
+  <g stroke="#C3B8D7" stroke-width="3" stroke-linejoin="round">
+    <path d="M1036 108L1072 92L1108 108V147L1072 163L1036 147V108Z"/>
+    <path d="M1036 108L1072 124L1108 108M1072 124V163M1054 100L1090 116V133"/>
+  </g>
+  <g fill="#8897A6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2" text-anchor="middle">
+    <text x="660" y="201">MEDIA</text><text x="866" y="201">SYSTEM</text><text x="1072" y="201">ARCHIVES</text>
+  </g>
+</svg>

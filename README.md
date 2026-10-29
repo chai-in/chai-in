@@ -1,16 +1,32 @@
-# Chai
+<p>
+  <img src="assets/header.svg" alt="Chai — native desktop tools, open source" width="100%">
+</p>
 
-Open-source projects and contributions across desktop utilities, media, archives, and games.
+I build open-source desktop tools for saving media, maintaining a Mac, and working with archives.
 
-## Projects
+My projects bring native interfaces to practical workflows, with local processing and clear controls over what changes on disk.
 
-- [Eucrante](https://github.com/chai-in/Eucrante) — a local-first macOS media app with Apple Music integration. In development; build from source.
-- [Mac Tidy](https://github.com/chai-in/Mac-Tidy) — a native macOS maintenance app built around the Mole engine. In development; build from source.
-- [7-Zip Hatch](https://github.com/chai-in/7zip-hatch) — an independent 7-Zip and HatchZip fork with a desktop app and an optional space-saving extraction mode. The current release is a preview.
-- [Minecraft Bedrock Fogless](https://github.com/chai-in/Minecraft-Bedrock-Fogless) — an experimental resource pack for reducing fog.
+## Selected projects
 
-## Contributions
+| Project | Overview & starting point |
+| :--- | :--- |
+| **[Eucrante](https://github.com/chai-in/Eucrante)**<br>macOS · Swift | Save media locally, prepare Apple-native audio and video, and import into Music.<br>**In development** · [Build from source](https://github.com/chai-in/Eucrante#build) · [Website](https://chai-in.github.io/Eucrante/) |
+| **[7-Zip Hatch](https://github.com/chai-in/7zip-hatch)**<br>Windows / macOS / Linux<br>C++ · Rust | Browse, create, and extract standard archives. An independent 7-Zip and HatchZip fork with optional space-saving extraction.<br>**Desktop preview** · [Downloads](https://github.com/chai-in/7zip-hatch#download) · [Extraction limits](https://github.com/chai-in/7zip-hatch#before-using-space-saving-extraction) |
+| **[Mac Tidy](https://github.com/chai-in/Mac-Tidy)**<br>Apple silicon macOS<br>Swift | Inspect storage, preview cleanup, uninstall apps, and monitor system health. A native interface powered by the Mole engine.<br>**In development** · [Build from source](https://github.com/chai-in/Mac-Tidy#build) · [Safety](https://github.com/chai-in/Mac-Tidy#safety) |
 
-- [SamRewritten: app-list reliability](https://github.com/PaulCombal/SamRewritten/pull/95) — handling slow downloads and preserving usable cached lists.
+## Working with the projects
 
-Each project has its own documentation, license, and contribution guidance in its repository.
+Bug reports, reproducible examples, and focused improvements are welcome. Each repository has its own setup instructions, license, and contribution guidance:
+
+[Eucrante](https://github.com/chai-in/Eucrante/blob/main/CONTRIBUTING.md) · [7-Zip Hatch](https://github.com/chai-in/7zip-hatch/blob/main/CONTRIBUTING.md) · [Mac Tidy](https://github.com/chai-in/Mac-Tidy/blob/main/CONTRIBUTING.md)
+
+## Upstream work
+
+[SamRewritten: Linux AppImage installation guidance](https://github.com/PaulCombal/SamRewritten/pull/96) — a proposed documentation improvement covering platform requirements and accurate installation commands. See the pull request for its current review status.
+
+<details>
+<summary>Earlier experiments</summary>
+
+[Minecraft Bedrock Fogless](https://github.com/chai-in/Minecraft-Bedrock-Fogless) is an archived resource-pack experiment. It is no longer maintained.
+
+</details>
